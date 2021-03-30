@@ -1,0 +1,25 @@
+.container{
+	background-color: #000;
+	height: 1080px;
+	width: 100%;
+}
+
+.box1{
+	background-color: #F0FFFF;
+	height: 100px;
+}
+
+.box2{
+	background-color: #F5F5DC;
+	height: 100px;
+}
+
+.box3{
+	background-color: #FFE4C4;
+	height: 100px;
+}
+
+.box4{
+	background-color: #E6E6FA;
+	height: 100px;
+}
